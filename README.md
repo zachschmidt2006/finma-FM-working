@@ -1,2 +1,4 @@
 # finma-FM-working
-General repo for testing python and jupyter concepts
+This my file I learn things
+status
+README.md

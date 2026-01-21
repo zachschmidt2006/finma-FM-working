@@ -12,3 +12,4 @@ while y<x:
 
 
 print(lists)
+push
